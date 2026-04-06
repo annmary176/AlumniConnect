@@ -1,0 +1,3 @@
+Loading .env from: C:\Users\asus\OneDrive\Desktop\alumniconnect\backend\.env
+.env exists: true
+DB Config: {"host":"localhost","user":"root","password":"admin","database":"alumniconnect"}

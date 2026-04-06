@@ -1,0 +1,17 @@
+[
+  {
+    "Source": "Student_Rahul",
+    "Target": "Prof_Sharma",
+    "Type": "Student_Of"
+  },
+  {
+    "Source": "Prof_Sharma",
+    "Target": "Alumni_Vikram",
+    "Type": "Colleague"
+  },
+  {
+    "Source": "Student_Priya",
+    "Target": "Student_Rahul",
+    "Type": "Classmate"
+  }
+]
